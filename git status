@@ -1,0 +1,113 @@
+[33mcommit 595bce1b0ef54860bd41118e62a4d0b6792f1ed6[m[33m ([m[1;36mHEAD -> [m[1;32mmatiaslopez_2[m[33m)[m
+Author: Matias Lopez Klyver <lopezk_matias@hotmail.com>
+Date:   Wed May 13 16:49:06 2020 -0300
+
+    stylesheet bootstrap.css added
+
+[33mcommit 1755d93f6c053479914a16ca55b379b5381eb46d[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: e56e141 876de5b
+Author: Matías Aybar <matiasaybar89@gmail.com>
+Date:   Mon May 11 23:38:31 2020 -0300
+
+    Merge pull request #12 from matias89/josefinacoll_1
+    
+    josefinacoll add html
+
+[33mcommit 876de5bdc7ddf3b8d721bbb2d5b979b2d6af1533[m
+Author: josefina coll <josefinacollareco@gmail.com>
+Date:   Mon May 11 23:33:16 2020 -0300
+
+    josefinacoll add html
+
+[33mcommit e56e14123a461264988c3d351cb74555a27ce673[m
+Merge: e099c96 8a7bf51
+Author: viscarra fernando <53384499+fviscarra@users.noreply.github.com>
+Date:   Mon May 11 23:32:29 2020 -0300
+
+    Merge pull request #11 from matias89/viscarra_fernando
+    
+    first push in progress
+
+[33mcommit 8a7bf5176f360fb1b70a72213172e7febd4a9de2[m
+Author: fernando viscarra <you@example.com>
+Date:   Mon May 11 23:31:46 2020 -0300
+
+    first push in progress
+
+[33mcommit e099c9621c95fe7b586db673ccb5a41c49190692[m
+Merge: 2a2a0bb 926790c
+Author: majuarezm <64820333+majuarezm@users.noreply.github.com>
+Date:   Mon May 11 23:23:52 2020 -0300
+
+    Merge pull request #8 from matias89/marianojuarezm_1git
+    
+    branch and basic html structure added
+
+[33mcommit 926790cfdde399d60fda547d150d89dbf53c2c26[m
+Author: Mariano Juarez Magarinos <majuarezmagarinios@outlook.com>
+Date:   Mon May 11 23:21:28 2020 -0300
+
+    branch and basic html structure added
+
+[33mcommit 2a2a0bb373c9f7acbfa300f0f9a72861a2afa0ed[m
+Merge: 76b105b 253e8c6
+Author: Matías Aybar <matiasaybar89@gmail.com>
+Date:   Mon May 11 22:51:44 2020 -0300
+
+    Merge pull request #3 from matias89/3_bootstrap-added
+    
+    Form was added on index
+
+[33mcommit 253e8c6cb0aa7181d3da6fe2545650948219f1cb[m[33m ([m[1;31morigin/3_bootstrap-added[m[33m)[m
+Author: Matías Aybar <matias.aybar@globant.com>
+Date:   Mon May 11 22:47:12 2020 -0300
+
+    Form was added on index
+
+[33mcommit 76b105b7fc65d59bf91abb0803fb9ff11cf98b65[m
+Merge: 5927514 0f4b2f9
+Author: Matías Aybar <matiasaybar89@gmail.com>
+Date:   Mon May 11 21:56:08 2020 -0300
+
+    Merge pull request #2 from matias89/2_create-footer
+    
+    Footer was added
+
+[33mcommit 0f4b2f9546f08729aa34c50a064da5469640a439[m
+Author: Matías Aybar <matias.aybar@globant.com>
+Date:   Mon May 11 21:52:25 2020 -0300
+
+    Footer was added
+
+[33mcommit 59275142975345f0fdd926d40edc5a5f5cb023ca[m
+Merge: d71def1 b195ff0
+Author: Matías Aybar <matiasaybar89@gmail.com>
+Date:   Mon May 11 21:47:28 2020 -0300
+
+    Merge pull request #1 from matias89/1_create-header
+    
+    header added
+
+[33mcommit b195ff0b09bfcac7e9c9a442688dd71ea82a0b35[m[33m ([m[1;31morigin/1_create-header[m[33m)[m
+Author: Matías Aybar <matias.aybar@globant.com>
+Date:   Mon May 11 21:39:28 2020 -0300
+
+    header added
+
+[33mcommit d71def1ce7d2d3c1a6d5b47e91792f473a74c97f[m
+Author: Matías Aybar <matias.aybar@globant.com>
+Date:   Mon May 11 21:35:32 2020 -0300
+
+    Index modified
+
+[33mcommit 577fc3e6e1000548d056d97484176dc492aa36c4[m
+Author: Matías Aybar <matias.aybar@globant.com>
+Date:   Mon May 11 21:29:11 2020 -0300
+
+    index added / gitignore added
+
+[33mcommit 2d158634fee7af04decde87aea882e3aab58f8e0[m
+Author: Matías Aybar <matias.aybar@globant.com>
+Date:   Mon May 11 21:17:08 2020 -0300
+
+    Readme was added
