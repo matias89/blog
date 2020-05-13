@@ -1,0 +1,32 @@
+.bbimg {
+    background-image: url(https://eyofbaku2019.com/images/sport%20pages/basketball.jpg);
+    height: 350px;
+    background-size: 100% 100%;
+}
+.tittle_1 {
+    color: chocolate;
+    padding: 10px;
+}
+.tittle_1:hover {
+    font-size: 50px;
+    color: forestgreen;
+}
+ul {
+justify-content: center;
+list-style: none;
+display: flex;
+margin: 0px;
+padding: 0px;
+}
+li {
+    border: 2px solid gray;
+    margin-left: 20px;
+    background-color: orange;
+    width: 200px;
+    text-align: center;
+}
+.matias_a {
+    text-decoration: none;
+    color: red;
+    font-size: 35px;
+}
